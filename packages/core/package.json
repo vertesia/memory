@@ -23,7 +23,7 @@
         "vitest": "^1.4.0"
     },
     "dependencies": {
-        "@becomposable/converters": "^0.39.1",
+        "@becomposable/converters": "^0.42.0",
         "@becomposable/json": "^0.39.1",
         "glob": "^11.0.0",
         "micromatch": "^4.0.8",
