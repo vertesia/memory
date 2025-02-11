@@ -31,7 +31,7 @@
     "dependencies": {
         "@vertesia/memory": "workspace:*",
         "@vertesia/memory-commands": "workspace:*",
-        "commander": "^12.1.0"
+        "commander": "^13.0.0"
     },
     "devDependencies": {
         "@types/node": "^22.5.1",
