@@ -23,7 +23,7 @@
         "vitest": "^3.1.1"
     },
     "dependencies": {
-        "@vertesia/converters": "^0.42.2",
+        "@vertesia/converters": "^0.51.0",
         "@vertesia/json": "^0.42.2",
         "glob": "^11.0.0",
         "micromatch": "^4.0.8",
