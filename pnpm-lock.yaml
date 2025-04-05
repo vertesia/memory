@@ -29,7 +29,7 @@ importers:
         version: 0.6.3
       typescript:
         specifier: ^5.6.3
-        version: 5.6.3
+        version: 5.8.3
 
   packages/cli:
     dependencies:
@@ -48,7 +48,7 @@ importers:
         version: 22.13.5
       typescript:
         specifier: ^5.0.2
-        version: 5.6.3
+        version: 5.8.3
       vitest:
         specifier: ^3.1.1
         version: 3.1.1(@types/node@22.13.5)
@@ -60,7 +60,7 @@ importers:
         version: link:../core
       typescript:
         specifier: ^5.6.3
-        version: 5.6.3
+        version: 5.8.3
     devDependencies:
       '@types/node':
         specifier: ^22.5.1
@@ -1077,8 +1077,8 @@ packages:
   tslib@2.8.0:
     resolution: {integrity: sha512-jWVzBLplnCmoaTr13V9dYbiQ99wvZRd0vNWaDRg+aVYRcjDF3nDksxFDE/+fkXnKhpnUUkmx5pK/v8mCtLVqZA==}
 
-  typescript@5.6.3:
-    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
+  typescript@5.8.3:
+    resolution: {integrity: sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -2096,7 +2096,7 @@ snapshots:
   tslib@2.8.0:
     optional: true
 
-  typescript@5.6.3: {}
+  typescript@5.8.3: {}
 
   underscore@1.13.7: {}
 
