@@ -11,7 +11,7 @@
         "clean": "rimraf ./node_modules && pnpm -r clean"
     },
     "devDependencies": {
-        "@types/node": "^22.5.1",
+        "@types/node": "^24.0.0",
         "npm-ws-tools": "^0.3.0",
         "rimraf": "^6.0.1",
         "ts-dual-module": "^0.6.3",
