@@ -78,8 +78,8 @@ importers:
         specifier: ^0.42.2
         version: 0.42.2
       '@vertesia/json':
-        specifier: ^0.42.2
-        version: 0.42.2
+        specifier: ^0.71.0
+        version: 0.71.0
       glob:
         specifier: ^11.0.0
         version: 11.0.0
@@ -507,8 +507,8 @@ packages:
   '@vertesia/converters@0.42.2':
     resolution: {integrity: sha512-92QP+9XFSkFLvxX5MlC8HEbhU+CwWiqmBILrhvVxiAauYSA5VhbWIp9xOwhvs/nbC4otZyTDbi/SivAtpmsw/g==}
 
-  '@vertesia/json@0.42.2':
-    resolution: {integrity: sha512-iMhubphnm73FwZGDWEwIahnNUiy90auZrGYXdRe8DS7RikmnI8Ki65lLC8ds95SuXBsu0KM9d/QsnxNkldRIhQ==}
+  '@vertesia/json@0.71.0':
+    resolution: {integrity: sha512-Qfi7uCPfJF7Upnol9m8ZVR54wTD4rcsWN6L3xGFYKEFo61+bRSEX+zBMJFuzSDwV3RLZ4jHBOB1haL/tpxTDxw==}
 
   '@vitest/expect@3.1.1':
     resolution: {integrity: sha512-q/zjrW9lgynctNbwvFtQkGK9+vvHA5UzVi2V8APrp1C6fG6/MuYYkmlx4FubuqLycCeSdHD5aadWfua/Vr0EUA==}
@@ -1486,7 +1486,7 @@ snapshots:
       - encoding
       - supports-color
 
-  '@vertesia/json@0.42.2': {}
+  '@vertesia/json@0.71.0': {}
 
   '@vitest/expect@3.1.1':
     dependencies:
